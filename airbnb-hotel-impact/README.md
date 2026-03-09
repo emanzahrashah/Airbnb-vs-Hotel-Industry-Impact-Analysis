@@ -118,9 +118,9 @@ python dashboard.py
 Then open the browser and visit:
 
 http://127.0.0.1:8050
-Future Improvements
+## Future Improvements
 
-## Possible future improvements include:
+Possible future improvements include:
 
 Incorporating tourism demand data
 
@@ -134,3 +134,4 @@ Author
 
 
 Eman Zahra
+
