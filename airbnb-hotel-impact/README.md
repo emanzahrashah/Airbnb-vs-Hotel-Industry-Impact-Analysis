@@ -1,5 +1,5 @@
-Airbnb Growth vs Hotel Industry Impact
-Project Overview
+# Airbnb Growth vs Hotel Industry Impact
+# Project Overview
 
 This project analyzes the relationship between the growth of Airbnb listings and hotel industry wages across major U.S. cities from 2014 to 2023. The goal of this analysis is to explore whether the expansion of short-term rentals has negatively impacted the traditional hotel industry.
 
@@ -9,7 +9,7 @@ The project includes data cleaning, exploratory analysis, visualizations, and an
 
 Cities Analyzed
 
-The analysis focuses on five major U.S. cities:
+## The analysis focuses on five major U.S. cities:
 
 Chicago
 
@@ -21,7 +21,7 @@ Los Angeles
 
 San Francisco
 
-Dataset Sources
+## Dataset Sources
 
 Airbnb Data
 
@@ -37,7 +37,7 @@ Quarterly Census of Employment and Wages
 
 Industry: NAICS 72111 – Hotels (except casino hotels)
 
-Methods Used
+## Methods Used
 
 The project follows a complete end-to-end data science workflow:
 
@@ -65,7 +65,7 @@ Plotly
 
 Dash
 
-Interactive Dashboard
+## Interactive Dashboard
 
 An interactive dashboard was developed using Plotly Dash to explore Airbnb growth and hotel industry wages across cities.
 
@@ -77,12 +77,7 @@ View trends in Airbnb listings over time
 
 Compare Airbnb growth with hotel industry wages
 
-Dashboard preview:
-
-
-
-
-Key Insights
+## Key Insights
 
 Several important insights emerged from the analysis:
 
@@ -94,7 +89,7 @@ Despite the growth of Airbnb listings, hotel wages recovered after the pandemic,
 
 The results indicate that Airbnb and hotels appear to coexist, serving different segments of the travel market rather than directly replacing one another.
 
-Project Structure
+## Project Structure
 airbnb-hotel-impact
 │
 ├── dashboard
@@ -110,6 +105,10 @@ airbnb-hotel-impact
 │   └── dashboard_preview.png
 │
 └── README.md
+
+## Dashboard preview:
+
+
 How to Run the Dashboard
 
 Navigate to the dashboard folder and run:
@@ -121,7 +120,7 @@ Then open the browser and visit:
 http://127.0.0.1:8050
 Future Improvements
 
-Possible future improvements include:
+## Possible future improvements include:
 
 Incorporating tourism demand data
 
@@ -132,5 +131,6 @@ Studying the impact of Airbnb regulations in different cities
 Expanding the analysis to additional metropolitan areas
 
 Author
+
 
 Eman Zahra
